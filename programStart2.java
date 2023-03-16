@@ -64,7 +64,7 @@ public class programStart2
             System.out.println("Вы вышли из программы. ");
             break;
             
-            case 6: // данный блок не доработан полностью
+            case 6: 
               lis.removeLast();
               previousResult = lis.getLast();  
               return startProgram2(lis, previousResult);
