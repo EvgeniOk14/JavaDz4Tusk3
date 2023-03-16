@@ -5,7 +5,7 @@ public class scunnerNumber
     static int operationNumber()
     {
         Scanner sc = new Scanner(System. in, "Cp866");
-        System.out.println("Введите номер операции: ");
+        System.out.println("\nВведите номер операции: ");
         if(sc.hasNextInt())
             {
                 String s = sc.nextLine();

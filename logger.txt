@@ -1,0 +1,18 @@
+мар. 16, 2023 6:48:56 PM writelog records1
+INFO: 10.0 + 10.0 = 20.0
+мар. 16, 2023 6:49:47 PM writelog records1
+INFO: 2.0 + 2.0 = 4.0
+мар. 16, 2023 6:51:00 PM writelog records1
+INFO: 8.0 + 4.0 = 2.0
+мар. 16, 2023 6:53:11 PM writelog records1
+INFO: 2.0 + 2.0 = 4.0
+мар. 16, 2023 6:53:51 PM writelog records1
+INFO: 2.0 + 2.0 = 4.0
+мар. 16, 2023 9:33:48 PM writelog records1
+INFO: 5.0 + 5.0 = 10.0
+мар. 16, 2023 9:59:22 PM writelog records1
+INFO: 5.0 + 8.0 = 13.0
+мар. 16, 2023 10:03:43 PM writelog records1
+INFO: 5.0 + 8.0 = 13.0
+мар. 16, 2023 10:07:46 PM writelog records1
+INFO: 5.0 * 5.0 = 25.0
