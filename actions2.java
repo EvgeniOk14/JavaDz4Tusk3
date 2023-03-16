@@ -33,7 +33,7 @@ public class actions2
     static double divData(double previousResult, double b) throws IOException
     {
         double div = previousResult / b;
-        String S = String.format("%s + %s = %s", previousResult,b,div);
+        String S = String.format("%s / %s = %s", previousResult,b,div);
         writelog.records2(S);
         double currentResult = div;
         return currentResult;

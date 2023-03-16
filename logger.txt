@@ -16,3 +16,9 @@ INFO: 5.0 + 8.0 = 13.0
 INFO: 5.0 + 8.0 = 13.0
 мар. 16, 2023 10:07:46 PM writelog records1
 INFO: 5.0 * 5.0 = 25.0
+мар. 16, 2023 11:10:39 PM writelog records1
+INFO: 7.0 * 9.0 = 63.0
+мар. 16, 2023 11:12:06 PM writelog records1
+INFO: 7.0 + 3.0 = 10.0
+мар. 16, 2023 11:13:43 PM writelog records1
+INFO: 5.0 + 5.0 = 10.0
